@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omaru            as normal tutrle❤️:)
-- 👀 I’m interested in ... wasting time
+- 👀 I’m interested in ... learning and ...
 - 🌱 I’m currently learning ... nothign 
-- 💞️ I’m looking to collaborate on ...  hoe's
+- 💞️ I’m looking to collaborate on ...  everyone just ask im there
 - 📫 How to reach me ...   just discord omi#1695
 
 <!---
