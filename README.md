@@ -8,7 +8,7 @@
 
 <h3 align="left">My stats SH**⏳ </h3>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omaru-ok&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omaru-ok&theme=cobalt)
 <p>&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=omaru-ok&show_icons=true&locale=en" alt="dinhhuy258" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=omaru-ok&" alt="omaru-ok" /></p>
@@ -17,7 +17,7 @@
 
 <h3 align="left">some work</h3>
 
-[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=omaru-ok&repo=Pwsh-env&theme=github)](https://github.com/omaru-ok/Pwsh-env)
+[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=omaru-ok&repo=Pwsh-env&theme=cobalt)](https://github.com/omaru-ok/Pwsh-env)
 
 
 
@@ -35,3 +35,4 @@
 omaru-ok/omaru-ok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
