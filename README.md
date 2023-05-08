@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Normal turtle 🐢 </h1>
 
-[![Github](https://img.shields.io/github/followers/dinhhuy258?label=Follow&style=social)](https://github.com/dinhhuy258)
+[![Github](https://img.shields.io/github/followers/omaru-ok?label=Follow&style=social)](https://github.com/omaru-ok)
 
 <h3 align="left">Contact me</h3>
 
