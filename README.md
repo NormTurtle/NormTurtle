@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, Namaste 🐢 </h1>
 
-
-<h3 align="left">some work</h3>
-
-[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NormTurtle&repo=Pwsh-env&theme=cobalt)](https://github.com/omaru-ok/Pwsh-env)
-
 <h3 align="left">Contact me</h3>
 
 [![Gmail](https://img.shields.io/badge/gmail-red?&style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=omi0k@duck.com&su=SUBJECT&body=BODY&tf=cm)
