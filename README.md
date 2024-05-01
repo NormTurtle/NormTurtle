@@ -18,6 +18,7 @@
 
 [![Github](https://img.shields.io/github/followers/NormTurtle?label=Follow&style=social)](https://github.com/omaru-ok)
 
+the first language i learn was vimscript the hard way ( i forgot it as it was not much usefull )
 
 <!---
 - 👋 Hi, I’m @omaru            as normal tutrle❤️:)
