@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Namaste 🐢 </h1>
+<h1 align="center">Hi 👋,  🐢 </h1>
 
 <h3 align="left">Contact me</h3>
 
